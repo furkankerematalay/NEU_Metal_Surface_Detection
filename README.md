@@ -157,7 +157,7 @@ The training curves are used to monitor:
 * Potential overfitting
 * Differences between experimental configurations
 
-![Training Results](reports/resnet_calssification.png)
+![Training Results](reports/resnet_classification.png)
 
 ---
 
