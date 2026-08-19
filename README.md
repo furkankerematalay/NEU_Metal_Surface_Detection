@@ -157,7 +157,7 @@ The training curves are used to monitor:
 * Potential overfitting
 * Differences between experimental configurations
 
-![Training Results](assets/training_results.png)
+![Training Results](resnet_calssification.png)
 
 ---
 
@@ -165,7 +165,7 @@ The training curves are used to monitor:
 
 The experiments compare the baseline and improved architectures in terms of predictive performance and model characteristics.
 
-![Model Comparison](assets/model_comparison.png)
+![Model Comparison](assets/ab_test_dashboard.png)
 
 The comparison helps determine which architecture provides the best overall trade-off between predictive performance and deployment considerations.
 
@@ -182,7 +182,7 @@ It helps identify:
 * Whether visually similar defects create classification difficulties
 * Where future data collection or augmentation could provide the most value
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/resnet_confusion_matrix.png)
 
 ### Why Confusion Matrix?
 
@@ -466,9 +466,9 @@ The main objective is not simply to achieve a high classification score, but to 
 * NumPy
 * Pandas
 * Scikit-learn
-
+* 
 **Computer Vision**
-
+  
 * OpenCV
 * Image preprocessing
 * CNNs
