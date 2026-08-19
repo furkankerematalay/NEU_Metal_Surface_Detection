@@ -1,0 +1,11 @@
+# Sanal Ortamlar ve Ön Bellek
+venv/
+__pycache__/
+.idea/
+
+# Devasa Veri Setleri ve Modeller
+*.keras
+*.h5
+*.weights
+NEU-CLS/
+organize_veri_Seti/
